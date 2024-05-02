@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about Infrastructure-as-Code
+💬 Ask me about DevOps, Infrastructure-as-Code, Cloud Architecture, Networking, and Disaster Recovery.
 
 
 ## 🌐 Socials:
